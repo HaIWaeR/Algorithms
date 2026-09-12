@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\bin\Debug\net9.0\LinkedListAndStack.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\bin\Debug\net9.0\LinkedListAndStack.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\bin\Debug\net9.0\LinkedListAndStack.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\bin\Debug\net9.0\LinkedListAndStack.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\bin\Debug\net9.0\LinkedListAndStack.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\refint\LinkedListAndStack.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\ref\LinkedListAndStack.dll

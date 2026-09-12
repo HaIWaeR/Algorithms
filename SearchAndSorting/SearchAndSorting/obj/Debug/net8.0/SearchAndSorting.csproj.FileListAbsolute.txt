@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\bin\Debug\net8.0\SearchAndSorting.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\bin\Debug\net8.0\SearchAndSorting.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\bin\Debug\net8.0\SearchAndSorting.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\bin\Debug\net8.0\SearchAndSorting.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\bin\Debug\net8.0\SearchAndSorting.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\SearchAndSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\SearchAndSorting.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\SearchAndSorting.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\SearchAndSorting.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\SearchAndSorting.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\refint\SearchAndSorting.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\SearchAndSorting.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\SearchAndSorting.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\SearchAndSorting\SearchAndSorting\obj\Debug\net8.0\ref\SearchAndSorting.dll
