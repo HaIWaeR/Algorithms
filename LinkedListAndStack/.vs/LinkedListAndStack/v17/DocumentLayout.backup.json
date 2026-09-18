@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\algorithms\\linkedlistandstack\\linkedlistandstack\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|solutionrelative:linkedlistandstack\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\algorithms\\linkedlistandstack\\linkedlistandstack\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|solutionrelative:linkedlistandstack\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\algorithms\\linkedlistandstack\\linkedlistandstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|solutionrelative:linkedlistandstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\algorithms\\linkedlistandstack\\linkedlistandstack\\balanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|solutionrelative:linkedlistandstack\\balanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\algorithms\\linkedlistandstack\\linkedlistandstack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3953CD-40FB-4D8B-B134-E9AE0F18DF8E}|LinkedListAndStack\\LinkedListAndStack.csproj|solutionrelative:linkedlistandstack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Balanced.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\Balanced.cs",
+              "RelativeDocumentMoniker": "LinkedListAndStack\\Balanced.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\Balanced.cs",
+              "RelativeToolTip": "LinkedListAndStack\\Balanced.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:43:11.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\MyStack.cs",
+              "RelativeDocumentMoniker": "LinkedListAndStack\\MyStack.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\MyStack.cs",
+              "RelativeToolTip": "LinkedListAndStack\\MyStack.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T19:05:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\LinkedList.cs",
-              "RelativeDocumentMoniker": "LinkedListAndStack\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\LinkedList.cs",
-              "RelativeToolTip": "LinkedListAndStack\\LinkedList.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwCgAAAAbAAAAAAAAAA==",
+              "Title": "SinglyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\SinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListAndStack\\SinglyLinkedList.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\SinglyLinkedList.cs",
+              "RelativeToolTip": "LinkedListAndStack\\SinglyLinkedList.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T09:56:52.011Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "LinkedListAndStack\\Program.cs",
               "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Algorithms\\LinkedListAndStack\\LinkedListAndStack\\Program.cs",
               "RelativeToolTip": "LinkedListAndStack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T09:54:33.225Z",
               "EditorCaption": ""

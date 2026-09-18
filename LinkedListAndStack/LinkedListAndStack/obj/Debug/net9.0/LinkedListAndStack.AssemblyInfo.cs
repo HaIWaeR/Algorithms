@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedListAndStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb17f10a69866de0c16565b6e85ad341f3e8ef7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedListAndStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedListAndStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

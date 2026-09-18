@@ -12,3 +12,4 @@ C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\L
 C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.pdb
 C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.genruntimeconfig.cache
 C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\ref\LinkedListAndStack.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Algorithms\LinkedListAndStack\LinkedListAndStack\obj\Debug\net9.0\LinkedListAndStack.sourcelink.json
