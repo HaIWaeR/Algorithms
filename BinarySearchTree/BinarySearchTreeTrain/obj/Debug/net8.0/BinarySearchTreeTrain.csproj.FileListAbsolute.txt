@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\bin\Debug\net8.0\BinarySearchTreeTrain.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\bin\Debug\net8.0\BinarySearchTreeTrain.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\bin\Debug\net8.0\BinarySearchTreeTrain.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\bin\Debug\net8.0\BinarySearchTreeTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\bin\Debug\net8.0\BinarySearchTreeTrain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.sourcelink.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\refint\BinarySearchTreeTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\BinarySearchTreeTrain.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_6Delegate_Events_Lambdas\_5ActionPredicateFunc\BinarySearchTreeTrain\BinarySearchTreeTrain\obj\Debug\net8.0\ref\BinarySearchTreeTrain.dll
